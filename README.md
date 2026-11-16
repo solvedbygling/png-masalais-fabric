@@ -34,7 +34,11 @@ This project builds the club's reporting platform end to end, from raw files to 
 
 ## Demo
 
-https://github.com/user-attachments/assets/REPLACE-WITH-UPLOADED-VIDEO
+
+
+https://github.com/user-attachments/assets/c89920ed-2d69-4de2-b212-7245e8bef7e6
+
+
 
 *A funder brings a deadline forward and finance posts a late payroll journal. One pipeline run later, the board pack has updated itself (including its written commentary) and Activator has alerted the board by email and Teams.*
 
