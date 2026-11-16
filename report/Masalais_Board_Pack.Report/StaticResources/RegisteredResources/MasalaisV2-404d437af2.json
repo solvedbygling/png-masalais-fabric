@@ -1,0 +1,201 @@
+{
+  "name": "MasalaisV2-404d437af2.json",
+  "dataColors": [
+    "#2F2F2F",
+    "#F2A900",
+    "#8C8C8C",
+    "#D9B44A",
+    "#5C5C5C",
+    "#BDBDBD",
+    "#9A6B00",
+    "#C8102E"
+  ],
+  "foreground": "#2F2F2F",
+  "foregroundNeutralSecondary": "#8C8C8C",
+  "foregroundNeutralTertiary": "#BDBDBD",
+  "background": "#FFFFFF",
+  "backgroundLight": "#FAFAF9",
+  "backgroundNeutral": "#E9E9E9",
+  "tableAccent": "#2F2F2F",
+  "good": "#2F7D4F",
+  "neutral": "#F2A900",
+  "bad": "#C8102E",
+  "maximum": "#F2A900",
+  "center": "#FBF1D6",
+  "minimum": "#FFFFFF",
+  "textClasses": {
+    "title": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 14,
+      "color": "#2F2F2F"
+    },
+    "header": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 11,
+      "color": "#2F2F2F"
+    },
+    "callout": {
+      "fontFace": "Segoe UI Bold",
+      "fontSize": 24,
+      "color": "#2F2F2F"
+    },
+    "label": {
+      "fontFace": "Segoe UI",
+      "fontSize": 10,
+      "color": "#2F2F2F"
+    },
+    "smallLabel": {
+      "fontFace": "Segoe UI",
+      "fontSize": 9,
+      "color": "#8C8C8C"
+    }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [
+          {
+            "show": true,
+            "color": {
+              "solid": {
+                "color": "#FFFFFF"
+              }
+            },
+            "transparency": 0
+          }
+        ],
+        "border": [
+          {
+            "show": true,
+            "color": {
+              "solid": {
+                "color": "#E9E9E9"
+              }
+            },
+            "radius": 10
+          }
+        ],
+        "dropShadow": [
+          {
+            "show": true,
+            "color": {
+              "solid": {
+                "color": "#000000"
+              }
+            },
+            "transparency": 92,
+            "position": "Outer",
+            "preset": "Custom",
+            "shadowBlur": 8,
+            "shadowDistance": 2,
+            "angle": 90
+          }
+        ],
+        "title": [
+          {
+            "show": true,
+            "fontColor": {
+              "solid": {
+                "color": "#2F2F2F"
+              }
+            },
+            "fontSize": 14,
+            "fontFamily": "Segoe UI Semibold",
+            "alignment": "left"
+          }
+        ],
+        "subTitle": [
+          {
+            "show": false
+          }
+        ],
+        "visualHeader": [
+          {
+            "show": false
+          }
+        ]
+      }
+    },
+    "page": {
+      "*": {
+        "background": [
+          {
+            "color": {
+              "solid": {
+                "color": "#F4F4F3"
+              }
+            },
+            "transparency": 0
+          }
+        ]
+      }
+    },
+    "valueAxis": {
+      "*": {
+        "gridlineColor": [
+          {
+            "solid": {
+              "color": "#E9E9E9"
+            }
+          }
+        ]
+      }
+    },
+    "tableEx": {
+      "*": {
+        "columnHeaders": [
+          {
+            "backColor": {
+              "solid": {
+                "color": "#2F2F2F"
+              }
+            },
+            "fontColor": {
+              "solid": {
+                "color": "#FFFFFF"
+              }
+            },
+            "fontFamily": "Segoe UI Semibold"
+          }
+        ],
+        "values": [
+          {
+            "backColorSecondary": {
+              "solid": {
+                "color": "#FAFAF9"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "pivotTable": {
+      "*": {
+        "columnHeaders": [
+          {
+            "backColor": {
+              "solid": {
+                "color": "#2F2F2F"
+              }
+            },
+            "fontColor": {
+              "solid": {
+                "color": "#FFFFFF"
+              }
+            },
+            "fontFamily": "Segoe UI Semibold"
+          }
+        ],
+        "values": [
+          {
+            "backColorSecondary": {
+              "solid": {
+                "color": "#FAFAF9"
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

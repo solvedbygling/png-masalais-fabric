@@ -1,0 +1,8 @@
+ProgrammeID,ProgrammeName,Stream,IsParticipantBased
+P01,High Performance Staff and Facilities,High Performance,No
+P02,Academy,Pathway,Yes
+P03,Schools Rugby League,Community,Yes
+P04,Women's and Girls' Pathways,Pathway,Yes
+P05,Provincial Clinics,Community,Yes
+P06,Coach and Match Official Development,Capability,Yes
+P99,Governance and Administration,Administration,No

@@ -1,0 +1,178 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/report/3.3.0/schema.json",
+  "themeCollection": {
+    "baseTheme": {
+      "name": "Fluent2-CY26SU10",
+      "reportVersionAtImport": {
+        "visual": "2.14.0",
+        "report": "3.4.0",
+        "page": "2.3.1"
+      },
+      "type": "SharedResources"
+    },
+    "customTheme": {
+      "name": "MasalaisV2-404d437af2.json",
+      "reportVersionAtImport": {
+        "visual": "2.14.0",
+        "report": "3.4.0",
+        "page": "2.3.1"
+      },
+      "type": "RegisteredResources"
+    }
+  },
+  "objects": {
+    "section": [
+      {
+        "properties": {
+          "verticalAlignment": {
+            "expr": {
+              "Literal": {
+                "Value": "'Top'"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "outspacePane": [
+      {
+        "properties": {
+          "expanded": {
+            "expr": {
+              "Literal": {
+                "Value": "false"
+              }
+            }
+          }
+        }
+      }
+    ]
+  },
+  "resourcePackages": [
+    {
+      "name": "SharedResources",
+      "type": "SharedResources",
+      "items": [
+        {
+          "name": "Fluent2-CY26SU10",
+          "path": "BaseThemes/Fluent2-CY26SU10.json",
+          "type": "BaseTheme"
+        }
+      ]
+    },
+    {
+      "name": "RegisteredResources",
+      "type": "RegisteredResources",
+      "items": [
+        {
+          "name": "icon-attendances8a008fc4a898.png",
+          "path": "icon-attendances8a008fc4a898.png",
+          "type": "Image"
+        },
+        {
+          "name": "icon-completedd5f539f2a6d.png",
+          "path": "icon-completedd5f539f2a6d.png",
+          "type": "Image"
+        },
+        {
+          "name": "icon-costdcbcc91ec676.png",
+          "path": "icon-costdcbcc91ec676.png",
+          "type": "Image"
+        },
+        {
+          "name": "icon-dq-corrected93ec946b9061.png",
+          "path": "icon-dq-corrected93ec946b9061.png",
+          "type": "Image"
+        },
+        {
+          "name": "icon-dq-flagged4d35f48173de.png",
+          "path": "icon-dq-flagged4d35f48173de.png",
+          "type": "Image"
+        },
+        {
+          "name": "icon-dq-issuesefce79da0797.png",
+          "path": "icon-dq-issuesefce79da0797.png",
+          "type": "Image"
+        },
+        {
+          "name": "icon-dq-removed43facdc1ad2c.png",
+          "path": "icon-dq-removed43facdc1ad2c.png",
+          "type": "Image"
+        },
+        {
+          "name": "icon-femalea6e329fe3061.png",
+          "path": "icon-femalea6e329fe3061.png",
+          "type": "Image"
+        },
+        {
+          "name": "icon-funding42a1ba52a1a3.png",
+          "path": "icon-funding42a1ba52a1a3.png",
+          "type": "Image"
+        },
+        {
+          "name": "icon-late19b1674e3db0.png",
+          "path": "icon-late19b1674e3db0.png",
+          "type": "Image"
+        },
+        {
+          "name": "icon-milestone-overdue79a1080cd35c.png",
+          "path": "icon-milestone-overdue79a1080cd35c.png",
+          "type": "Image"
+        },
+        {
+          "name": "icon-milestonesd02b932d1328.png",
+          "path": "icon-milestonesd02b932d1328.png",
+          "type": "Image"
+        },
+        {
+          "name": "icon-over-budgete8890e83865d.png",
+          "path": "icon-over-budgete8890e83865d.png",
+          "type": "Image"
+        },
+        {
+          "name": "icon-people910b049fbe36.png",
+          "path": "icon-people910b049fbe36.png",
+          "type": "Image"
+        },
+        {
+          "name": "icon-provinces24b42a39cfb1.png",
+          "path": "icon-provinces24b42a39cfb1.png",
+          "type": "Image"
+        },
+        {
+          "name": "icon-schools48f28c4be679.png",
+          "path": "icon-schools48f28c4be679.png",
+          "type": "Image"
+        },
+        {
+          "name": "icon-sessions40a7ff20a2f8.png",
+          "path": "icon-sessions40a7ff20a2f8.png",
+          "type": "Image"
+        },
+        {
+          "name": "icon-spende5df5f644331.png",
+          "path": "icon-spende5df5f644331.png",
+          "type": "Image"
+        },
+        {
+          "name": "MasalaisV2-404d437af2.json",
+          "path": "MasalaisV2-404d437af2.json",
+          "type": "CustomTheme"
+        },
+        {
+          "name": "PNGMasalaisRugbyLogof4ce66426123.png",
+          "path": "PNGMasalaisRugbyLogof4ce66426123.png",
+          "type": "Image"
+        }
+      ]
+    }
+  ],
+  "settings": {
+    "useStylableVisualContainerHeader": true,
+    "exportDataMode": "AllowSummarized",
+    "defaultDrillFilterOtherVisuals": true,
+    "allowChangeFilterTypes": true,
+    "useEnhancedTooltips": true,
+    "useDefaultAggregateDisplayName": true
+  }
+}

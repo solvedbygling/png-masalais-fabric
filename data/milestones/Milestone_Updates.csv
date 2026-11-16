@@ -1,0 +1,43 @@
+UpdateID,MilestoneID,UpdateDate,Status,PctComplete,Comment,UpdatedBy
+UPD0001,M01,2025-07-01,On track,50,Final terms agreed with donor,Chief Executive
+UPD0002,M01,2025-07-15,Complete,100,Agreement signed by both parties,Chief Executive
+UPD0003,M02,2025-08-15,On track,30,Inception plan drafted,Chief Executive
+UPD0004,M02,2025-09-26,On track,70,Safeguarding policy with board for review,Chief Executive
+UPD0006,M03,2025-09-30,On track,20,Head coach shortlist complete,High Performance Manager
+UPD0005,M02,2025-10-28,Complete,100,Board approved; submitted to donor,Chief Executive
+UPD0010,M04,2025-10-31,On track,15,Contractor mobilised,Facilities Manager
+UPD0007,M03,2025-11-28,On track,55,Head coach appointed; S&C role advertised,High Performance Manager
+UPD0020,M07,2025-11-28,On track,35,14 schools live in Term 4,Schools Programme Officer
+UPD0011,M04,2025-12-19,On track,35,Earthworks complete,Facilities Manager
+UPD0008,M03,2026-01-30,On track,85,Academy trials held in 6 provinces,High Performance Manager
+UPD0041,M12,2026-01-30,On track,60,Term 4 data received from education offices,Schools Programme Officer
+UPD0009,M03,2026-02-20,Complete,100,48 players in first academy intake,High Performance Manager
+UPD0042,M12,2026-02-25,Complete,100,Baseline report delivered to sponsor,Schools Programme Officer
+UPD0012,M04,2026-02-27,At risk,55,Wet season delays; drainage redesign needed,Facilities Manager
+UPD0021,M07,2026-02-27,On track,80,32 schools live in Term 1,Schools Programme Officer
+UPD0024,M08,2026-02-27,On track,25,Southern hubs launched,Women's Pathway Officer
+UPD0013,M04,2026-03-31,At risk,70,"Missed due date; variation approved, new date June",Facilities Manager
+UPD0022,M07,2026-03-31,At risk,80,Second wave of 10 schools delayed to Term 2,Schools Programme Officer
+UPD0028,M09,2026-03-31,On track,45,Training rolled out to Southern and Momase coaches,Safeguarding Officer
+UPD0032,M10,2026-03-31,On track,33,5 provinces reached,Community Programme Officer
+UPD0014,M04,2026-04-30,At risk,82,Change rooms behind schedule,Facilities Manager
+UPD0023,M07,2026-04-30,Complete,100,40 schools reached in first week of Term 2,Schools Programme Officer
+UPD0025,M08,2026-04-30,On track,75,Momase and Highlands hubs launched,Women's Pathway Officer
+UPD0026,M08,2026-05-29,At risk,75,"Islands launch delayed, venue unavailable",Women's Pathway Officer
+UPD0029,M09,2026-05-29,On track,72,Highlands sessions complete,Safeguarding Officer
+UPD0015,M04,2026-06-12,Complete,100,Practical completion certified,Facilities Manager
+UPD0030,M09,2026-06-30,At risk,86,Remote coaches not yet trained; online module sourced,Safeguarding Officer
+UPD0033,M10,2026-06-30,On track,53,8 provinces reached,Community Programme Officer
+UPD0027,M08,2026-07-10,Complete,100,Islands hubs launched; 4 regions live,Women's Pathway Officer
+UPD0031,M09,2026-07-24,Complete,100,All active coaches trained and recorded,Safeguarding Officer
+UPD0016,M05,2026-07-31,On track,40,Data collection for report under way,Finance Manager
+UPD0037,M11,2026-07-31,On track,30,Slab poured,Facilities Manager
+UPD0017,M05,2026-08-28,Complete,100,Report and acquittal submitted,Finance Manager
+UPD0034,M10,2026-08-31,At risk,73,11 provinces; travel costs above budget,Community Programme Officer
+UPD0038,M11,2026-08-31,On track,55,Frame and roof complete,Facilities Manager
+UPD0018,M06,2026-09-30,Not started,0,Scheduled to start November,Chief Executive
+UPD0035,M10,2026-09-30,At risk,80,12 of 15 provinces; government release delayed,Community Programme Officer
+UPD0039,M11,2026-09-30,At risk,75,Contractor paused pending government payment,Facilities Manager
+UPD0019,M06,2026-10-30,On track,15,Evaluation consultant engaged,Chief Executive
+UPD0036,M10,2026-10-30,At risk,87,Jiwaka delivered; Western and Gulf need funding,Community Programme Officer
+UPD0040,M11,2026-10-30,At risk,90,Fit-out under way; completion expected late Nov,Facilities Manager

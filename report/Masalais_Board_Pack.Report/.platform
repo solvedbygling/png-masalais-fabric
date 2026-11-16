@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "Masalais_Board_Pack"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "a9a49056-2116-49cb-8de4-eec761a1e8f6"
+  }
+}

@@ -1,0 +1,8 @@
+AgreementID,FunderID,AgreementName,Currency,CommittedAmount,StartDate,EndDate,Restriction,RestrictionNotes,PaymentBasis
+CSSP-EST,F01,Establishment Phase Grant,AUD,9000000,2025-07-01,2026-12-31,Restricted,All programmes; governance and admin capped at 10% of grant,Milestone tranches
+NSCF-2025,F02,2025 Appropriation,PGK,6000000,2025-07-01,2025-12-31,Restricted,High performance staff and facilities; provincial clinics,Budget release
+NSCF-2026,F02,2026 Appropriation,PGK,9000000,2026-01-01,2026-12-31,Restricted,High performance staff and facilities; provincial clinics,Budget release
+TUM-PP,F03,Principal Partner 2026-2027,PGK,4000000,2026-01-01,2027-12-31,Unrestricted,,Quarterly instalments
+BST-FP25,F04,Foundation Partner 2025,PGK,750000,2025-09-01,2025-12-31,Unrestricted,,Quarterly instalments
+BST-MP26,F04,Major Partner 2026 (renewal),PGK,1800000,2026-01-01,2026-12-31,Unrestricted,,Quarterly instalments
+MVA-SCH,F05,Schools Programme Partner,PGK,600000,2025-10-01,2026-12-31,Restricted,Schools Rugby League programme only,Quarterly instalments

@@ -1,0 +1,13 @@
+MilestoneID,AgreementID,ProgrammeID,Description,DueDate,TrancheAmount,MilestoneType
+M01,CSSP-EST,P99,Grant agreement signed,2025-07-15,2500000,Tranche trigger
+M02,CSSP-EST,P99,Inception plan and safeguarding policy approved,2025-10-31,2000000,Tranche trigger
+M03,CSSP-EST,P01,Head coach and HP staff recruited; first academy intake,2026-02-28,1500000,Tranche trigger
+M04,CSSP-EST,P01,Training base Stage 1 complete,2026-03-31,1500000,Tranche trigger
+M05,CSSP-EST,P99,Mid-term progress and financial acquittal report,2026-08-31,1000000,Tranche trigger
+M06,CSSP-EST,P99,Final establishment report,2026-12-15,500000,Tranche trigger
+M07,CSSP-EST,P03,Schools programme live in 40 schools,2026-03-31,0,Delivery
+M08,CSSP-EST,P04,Women's pathway launched in 4 regions,2026-05-31,0,Delivery
+M09,CSSP-EST,P06,All active coaches safeguarding-trained,2026-06-30,0,Compliance
+M10,NSCF-2026,P05,Provincial clinics delivered in 15 provinces,2026-09-30,0,Delivery
+M11,NSCF-2026,P01,Training base Stage 2 (gymnasium) complete,2026-10-15,0,Delivery
+M12,MVA-SCH,P03,Schools attendance baseline report delivered,2026-02-28,0,Reporting

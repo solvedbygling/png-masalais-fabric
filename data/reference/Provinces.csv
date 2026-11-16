@@ -1,0 +1,23 @@
+ProvinceCode,ProvinceName,Region
+SHP,Southern Highlands,Highlands
+HEL,Hela,Highlands
+ENG,Enga,Highlands
+WHP,Western Highlands,Highlands
+JIW,Jiwaka,Highlands
+SIM,Simbu,Highlands
+EHP,Eastern Highlands,Highlands
+MOR,Morobe,Momase
+MAD,Madang,Momase
+ESP,East Sepik,Momase
+SAN,West Sepik (Sandaun),Momase
+WES,Western,Southern
+GUL,Gulf,Southern
+CEN,Central,Southern
+NCD,National Capital District,Southern
+MBP,Milne Bay,Southern
+ORO,Oro (Northern),Southern
+MAN,Manus,Islands
+NIP,New Ireland,Islands
+ENB,East New Britain,Islands
+WNB,West New Britain,Islands
+ARB,Bougainville,Islands
