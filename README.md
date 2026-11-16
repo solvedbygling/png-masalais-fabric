@@ -1,8 +1,6 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/logo.png">
-    <img src="assets/logo-light.png" alt="PNG Masalais logo" width="180">
-  </picture>
+  <img src="assets/logo-light.png#gh-light-mode-only" alt="PNG Masalais logo" width="180">
+  <img src="assets/logo.png#gh-dark-mode-only" alt="PNG Masalais logo" width="180">
 </p>
 
 <h1 align="center">PNG Masalais: Funding and Impact Platform</h1>
