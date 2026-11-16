@@ -192,4 +192,14 @@ png-masalais-fabric/
 
 ---
 
+## Other projects
+
+- **[Kumul Wholesale: a Microsoft Fabric data platform](https://github.com/solvedbygling/kumul-fabric-portfolio)**  
+  An end-to-end Fabric build for a wholesaler trading in Australia and PNG: on-premises SQL through a lakehouse and warehouse star schema to Power BI, with incremental loads and data quality checks.
+
+- **[Self-Writing Sales Dashboard](https://github.com/solvedbygling/power-platform-portfolio)**  
+  A Power BI report that writes its own executive summary, using Power Automate and an LLM.
+
+  ---
+
 <p align="center"><i>PNG Masalais is a fictional club. Names of funders and sponsors are invented. Any resemblance to real organisations is unintended.</i></p>
