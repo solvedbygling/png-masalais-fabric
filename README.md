@@ -178,8 +178,8 @@ png-masalais-fabric/
 ├── notebooks/          Silver and Gold PySpark notebooks (.ipynb)
 ├── report/             Power BI board pack as a PBIP project (PBIR format, live connection)
 ├── docs/               Model spec, report spec, design spec, review rounds and the page mockup
-├── assets/             Logo, KPI icons, screenshots and the demo video
-└── fabric/             Fabric workspace items synced through Git integration
+└── assets/             Logo, KPI icons, screenshots and the demo video
+
 ```
 
 ## Reproduce it
